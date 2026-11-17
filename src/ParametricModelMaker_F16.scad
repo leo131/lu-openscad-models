@@ -5,7 +5,7 @@
 
 // 【進階用法】若你在 MakerWorld 或網頁版同時上傳了中文字型檔（例如 NotoSansTC-Bold.ttf），
 // 請將下方這行的 "//" 刪除，並在字型選單輸入 "Noto Sans TC" 即可支援所有中文字：
-// use <NotoSansTC-Bold.ttf>
+use <NotoSansTC-Bold.ttf>
 
 // 動態精細度：網頁預覽時使用 48 邊形確保流暢度，匯出 STL 完整渲染時自動切換為 96 邊形高精度
 $fn = $preview ? 48 : 96;
