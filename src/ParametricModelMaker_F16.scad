@@ -30,7 +30,7 @@ name_text = "小花";
 // 【選色 2】第一行文字顏色
 line1_color = "#FF99CC";     //color
 // 系統字型名稱（僅在上方引擎選擇「系統/上傳字型」時生效，預設為網頁版內建粗體字型）
-font_choice = "Noto Sans TC:style=Bold"; //font
+font_choice = "Noto Sans TC"; //font
 // 第一行文字大小
 font_size = 15;              // [5:1:50]
 // 文字加粗程度（調整文字粗細，避免 3D 列印筆畫過細斷裂）
